@@ -69,8 +69,8 @@ Stay tuned for more projects and implementations that will be added to this repo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ai-ml-projects.git
-    cd ai-ml-projects
+    git clone https://github.com/Priyanshu-511/Artificial-Intelligence.git
+    cd Artificial-Intelligence
     ```
 
 2. Run the desired project:
